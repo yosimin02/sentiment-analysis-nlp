@@ -12,13 +12,8 @@
 - Learning **MLOps**: model deployment with FastAPI, Docker, and MLflow  
 - Exploring **Large Language Models (LLMs)** and fine-tuning transformers  
 
----
-
-
----
 
 ##  Featured Projects
- Check out my pinned repositories for full details!  
 
 -  **[Sentiment Analysis](#)** → Classifying reviews with Naive Bayes & BERT  
 -  **[Fake News Detection](#)** → Identifying misinformation with LSTMs & transformers  
@@ -35,5 +30,4 @@
 ---
 
 ##  Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+linkdn:linkedin.com/in/yosimin-avazbekova-17584922b
